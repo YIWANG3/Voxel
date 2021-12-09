@@ -1,0 +1,12 @@
+cache
+config
+ibl
+MagicaVoxel.app
+plugin
+shader
+svo
+lib*
+*.txt
+
+.DS_Store
+**/.DS_Store
